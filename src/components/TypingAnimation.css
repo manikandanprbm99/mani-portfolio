@@ -1,0 +1,16 @@
+.typing-animation {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.2em;
+}
+
+.typing-text {
+  font-family: var(--font-display);
+  font-weight: 600;
+}
+
+.typing-cursor {
+  color: var(--purple-light);
+  font-weight: 300;
+  margin-left: 2px;
+}

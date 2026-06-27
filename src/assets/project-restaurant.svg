@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <defs>
+    <linearGradient id="restaurant-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="#12121a"/>
+  <rect x="40" y="40" width="520" height="320" rx="16" fill="url(#restaurant-grad)" opacity="0.15"/>
+  <circle cx="300" cy="160" r="60" fill="url(#restaurant-grad)" opacity="0.4"/>
+  <rect x="180" y="240" width="240" height="12" rx="6" fill="#f97316" opacity="0.6"/>
+  <rect x="220" y="270" width="160" height="8" rx="4" fill="#ffffff" opacity="0.3"/>
+  <rect x="240" y="290" width="120" height="8" rx="4" fill="#ffffff" opacity="0.2"/>
+  <text x="300" y="360" text-anchor="middle" fill="#f97316" font-family="Arial, sans-serif" font-size="24" font-weight="700">Restaurant Website</text>
+</svg>

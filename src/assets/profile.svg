@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <defs>
+    <linearGradient id="profile-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="profile-silhouette" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#profile-bg)" rx="32"/>
+  <circle cx="200" cy="150" r="70" fill="url(#profile-silhouette)" opacity="0.9"/>
+  <ellipse cx="200" cy="320" rx="110" ry="90" fill="url(#profile-silhouette)" opacity="0.9"/>
+  <text x="200" y="380" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" font-weight="600" opacity="0.85">Manikandan</text>
+</svg>

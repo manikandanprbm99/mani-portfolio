@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <defs>
+    <linearGradient id="mahindra-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#991b1b"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="#12121a"/>
+  <rect x="40" y="60" width="520" height="280" rx="12" fill="url(#mahindra-grad)" opacity="0.2"/>
+  <rect x="80" y="100" width="200" height="120" rx="8" fill="#dc2626" opacity="0.5"/>
+  <rect x="320" y="100" width="200" height="50" rx="6" fill="#ffffff" opacity="0.15"/>
+  <rect x="320" y="170" width="160" height="30" rx="4" fill="#ffffff" opacity="0.1"/>
+  <rect x="320" y="220" width="200" height="40" rx="6" fill="#dc2626" opacity="0.4"/>
+  <text x="300" y="370" text-anchor="middle" fill="#dc2626" font-family="Arial, sans-serif" font-size="24" font-weight="700">Mahindra Website</text>
+</svg>
