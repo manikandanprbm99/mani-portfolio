@@ -132,8 +132,8 @@ function Hero() {
             animate={{ y: [0, -8, 0] }}
             transition={{ duration: 3, repeat: Infinity, ease: 'easeInOut', delay: 0.5 }}
           >
-            <span className="hero__badge-number">DM</span>
-            <span className="hero__badge-text">Fresher</span>
+            <span className="hero__badge-number">4+</span>
+            <span className="hero__badge-text">Experience</span>
           </motion.div>
 
           <motion.div
