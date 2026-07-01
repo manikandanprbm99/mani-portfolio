@@ -32,7 +32,7 @@ const projects: Project[] = [
       'Corporate website redesign for Mahindra showcasing their automotive portfolio with interactive product showcases.',
     image: mahindraImg,
     techStack: ['Wordpress CMS', 'CSS', 'Google Analytics', 'Google console'],
-    liveDemo: 'https://mahindra.fun/',
+    liveDemo: 'https://dev-empire-mahindra.pantheonsite.io/',
     github: 'https://github.com/manikandanprbm99/My-website',
   },
   {
